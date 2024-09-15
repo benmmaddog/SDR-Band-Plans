@@ -883,7 +883,7 @@
          },
          {
             "name": "30m Ham Band|  ",
-            "type": "50FF0000",
+            "type": "amateur",
             "start": 10100000,
             "end": 10130000
          },
@@ -895,7 +895,7 @@
          },
          {
             "name": "Packet  |30m Ham Band",
-            "type": "5000B3FF",
+            "type": "amateur",
             "start": 10140000,
             "end": 10150000
          },
@@ -1081,7 +1081,7 @@
          },
          {
             "name": "20m Ham Band|",
-            "type": "50FF0000",
+            "type": "amateur",
             "start": 14000000,
             "end": 14070000
          },
@@ -1135,7 +1135,7 @@
          },
          {
             "name": "|20m Ham Band",
-            "type": "50FF0000",
+            "type": "amateur",
             "start": 14288000,
             "end": 14350000
          },
@@ -1231,7 +1231,7 @@
          },
          {
             "name": "17m Ham Band|",
-            "type": "50FF0000",
+            "type": "amateur",
             "start": 18068000,
             "end": 18100000
          },
@@ -1249,7 +1249,7 @@
          },
          {
             "name": "|17m Ham Band",
-            "type": "50FF0000",
+            "type": "amateur",
             "start": 18110000,
             "end": 18168000
          },
@@ -1285,7 +1285,7 @@
          },
          {
             "name": "15m Ham Band|",
-            "type": "50FF0000",
+            "type": "amateur",
             "start": 21000000,
             "end": 21070000
          },
@@ -1309,7 +1309,7 @@
          },
          {
             "name": "|15m Ham Band",
-            "type": "50FF0000",
+            "type": "amateur",
             "start": 21342000,
             "end": 21450000
          },
@@ -1363,7 +1363,7 @@
          },
          {
             "name": "|12m Ham Band",
-            "type": "50FF0000",
+            "type": "amateur",
             "start": 24930000,
             "end": 24990000
          },
@@ -1681,7 +1681,7 @@
          },
          {
             "name": "10m Ham Band| CW",
-            "type": "50FF0000",
+            "type": "amateur",
             "start": 28000000,
             "end": 28070000
          },
